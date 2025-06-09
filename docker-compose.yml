@@ -36,6 +36,8 @@ services:
       - "8501:8501"
     volumes:
       - ./dashboard:/app
+    environment:
+      - BACKEND_URL=http://backend:8000
     depends_on:
       - backend
 
