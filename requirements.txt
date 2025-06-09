@@ -1,1 +1,18 @@
-# List of Python dependencies
+fastapi
+uvicorn
+boto3
+openai
+slack_sdk
+python-dotenv
+streamlit
+psycopg2-binary
+sqlalchemy
+pydantic
+aiohttp
+jinja2
+requests
+azure-identity
+azure-mgmt-resource
+google-cloud-storage
+google-api-python-client
+apache-airflow
